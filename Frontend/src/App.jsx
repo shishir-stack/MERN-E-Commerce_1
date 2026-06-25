@@ -1,7 +1,7 @@
 
 import { Routes, Route, Navigate, useLocation, } from 'react-router-dom';
 import Login from './pages/Login';
-import Signup from './pages/Signup';
+import Signup from './pages/SignUp';
 import Home from './pages/Home';
 import Nav from './components/Nav';
 import { useContext, useEffect } from 'react';
