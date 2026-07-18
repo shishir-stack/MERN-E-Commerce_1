@@ -15,7 +15,7 @@ import orderRoutes from './routes/orderRoutes.js';
 const app =express();
 app.use(express.json());
 app.use(cors({
-    origin:["https://mern-e-commerce-1-2.onrender.com" ,"http://localhost:5174"],
+    origin:["https://mern-e-commerce-1-z7y9.onrender.com" ,"http://localhost:5174"],
     credentials:true,
 }));
 app.use(cookieParser())
