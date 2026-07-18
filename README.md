@@ -6,6 +6,15 @@ This project provides a complete online shopping experience where users can brow
 
 ---
 
+
+## 🌐 Live Demo
+
+🚀 **Visit the deployed application:**
+
+https://mern-e-commerce-1-1.onrender.com
+
+---
+
 ## 📌 Project Overview
 
 The **MERN E-Commerce Application** is designed to demonstrate a complete online store workflow.
